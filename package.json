@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node ./demos/koa/demo3/app.js"
+  }
+}
