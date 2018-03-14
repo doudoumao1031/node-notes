@@ -1,6 +1,11 @@
 {
   "dependencies": {
     "express": "^4.16.2",
-    "koa": "^2.5.0"
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0"
+  },
+  "scripts": {
+    "start": "node ./url_management/app3.js"
   }
 }
